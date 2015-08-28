@@ -14,5 +14,13 @@
     "unihan"
   ],
   "author": "Mu-An Chiou <me@muanchiou.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muan/unicode-mandarin-readings.git"
+  },
+  "bugs": {
+    "url": "https://github.com/muan/unicode-mandarin-readings/issues"
+  },
+  "homepage": "https://github.com/muan/unicode-mandarin-readings#readme"
 }
