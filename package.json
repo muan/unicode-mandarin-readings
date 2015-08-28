@@ -1,7 +1,7 @@
 {
   "name": "unicode-mandarin-readings",
   "version": "1.0.0",
-  "description": "Unicode and it corresponding Mandarin readings (data from Unihan)",
+  "description": "Unicode and their corresponding Mandarin readings (data from Unihan)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
